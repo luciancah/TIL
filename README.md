@@ -1,9 +1,7 @@
 ### TL;DR
 이것저것 공부함...
 
-### 이독취계 (이진형의 독한 취준계획)
-<img width="1197" alt="스크린샷 2024-03-28 오후 3 22 58" src="https://github.com/luciancah/TIL/assets/8311335/dd12aa77-61e3-4144-8b4d-7fc99d7a5ce7">
-
+### 이독취계
 - 월~금 1030 학정 출석 w/[kmsu44](https://github.com/kmsu44)
 - 가끔 재택가능
 
