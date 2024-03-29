@@ -1,5 +1,6 @@
 ### TL;DR
-이것저것 공부함...
+
+![image](https://github.com/luciancah/TIL/assets/8311335/bb149f9a-0270-49f0-b0c1-810e65842895)
 
 ### 이독취계
 - 월~금 1030 학정 출석 w/[kmsu44](https://github.com/kmsu44)
