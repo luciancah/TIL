@@ -1,4 +1,5 @@
 from collections import defaultdict
+from bisect import bisect_left,bisect_right
 
 t = int(input())
 n = int(input())
@@ -58,6 +59,6 @@ ans = 0
 
 for i in range(len(pa)):
   res = t - pa[i]
-  ans += upper_bound(pb, res) - lower_bound(pb, res)
+  ans += bisect_right(pb, res) - bisect_left(pb, res)
 
 print(ans)
